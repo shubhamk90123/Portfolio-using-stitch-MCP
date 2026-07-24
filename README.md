@@ -13,6 +13,12 @@
 
 <br />
 
+## 🌐 Live Demo
+
+The portfolio is live and hosted on **Netlify**:
+
+**🔗 [https://stitch-mcp-project.netlify.app/](https://stitch-mcp-project.netlify.app/)**
+
 ## 🚀 Features
 
 - **Dark Mode Design**: A premium, visually stunning aesthetic with tailored HSL colors.
