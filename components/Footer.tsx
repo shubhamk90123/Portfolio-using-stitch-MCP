@@ -41,7 +41,7 @@ export default function Footer() {
             href="#top"
             className="hover:text-[#00e3fd] transition-all duration-200 flex items-center gap-1"
           >
-            Top <span class="material-symbols-outlined text-sm">arrow_upward</span>
+            Top <span className="material-symbols-outlined text-sm">arrow_upward</span>
           </a>
         </div>
       </div>
